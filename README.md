@@ -24,4 +24,10 @@ In this project, we used Unity to implement/reproduce  "Bust the Ghost" game. <b
 
 ## Youtube Video
 Demo on Youtube: https://youtu.be/yTgKLGy1W8o <br />
-<br /><img width="724" alt="Screen Shot 2021-11-27 at 18 25 49" src="https://user-images.githubusercontent.com/49244138/143690985-943a88a9-6a71-4316-a36a-fb028b661dbb.png"> <br />
+Click on the Image !
+
+[![AI-CSC4301-BustTheGhost](Screenshots/proba.PNG)](https://youtu.be/yTgKLGy1W8o)
+
+## Screenshots
+![](Screenshots/proba.PNG)<br />
+<img width="724" alt="Screen Shot 2021-11-27 at 18 25 49" src="https://user-images.githubusercontent.com/49244138/143690985-943a88a9-6a71-4316-a36a-fb028b661dbb.png"> <br />
